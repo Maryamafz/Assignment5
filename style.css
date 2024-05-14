@@ -54,7 +54,7 @@ p {
 }
 @media (max-width:800px) {
   .service{
-    margin: 0px 12%;
+    margin: 0px 10%;
   }
   .section_header{
     text-align: center;
