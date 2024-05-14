@@ -53,7 +53,7 @@ p {
     text-align: justify;
 }
 @media (max-width:800px) {
-  .col-lg-4{
+  .row{
     margin: 0px 12%;
   }
   h2, h3{
